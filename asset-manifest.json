@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/git%20remote%20add%20origin%20https://github.com/Liubomyr22/movie-database-api.git/static/css/main.76d72caf.chunk.css",
+    "main.js": "/git%20remote%20add%20origin%20https://github.com/Liubomyr22/movie-database-api.git/static/js/main.53a6376c.chunk.js",
+    "main.js.map": "/git%20remote%20add%20origin%20https://github.com/Liubomyr22/movie-database-api.git/static/js/main.53a6376c.chunk.js.map",
+    "runtime-main.js": "/git%20remote%20add%20origin%20https://github.com/Liubomyr22/movie-database-api.git/static/js/runtime-main.ec39f6c6.js",
+    "runtime-main.js.map": "/git%20remote%20add%20origin%20https://github.com/Liubomyr22/movie-database-api.git/static/js/runtime-main.ec39f6c6.js.map",
+    "static/js/2.2d049cf1.chunk.js": "/git%20remote%20add%20origin%20https://github.com/Liubomyr22/movie-database-api.git/static/js/2.2d049cf1.chunk.js",
+    "static/js/2.2d049cf1.chunk.js.map": "/git%20remote%20add%20origin%20https://github.com/Liubomyr22/movie-database-api.git/static/js/2.2d049cf1.chunk.js.map",
+    "static/js/3.9f7ba537.chunk.js": "/git%20remote%20add%20origin%20https://github.com/Liubomyr22/movie-database-api.git/static/js/3.9f7ba537.chunk.js",
+    "static/js/3.9f7ba537.chunk.js.map": "/git%20remote%20add%20origin%20https://github.com/Liubomyr22/movie-database-api.git/static/js/3.9f7ba537.chunk.js.map",
+    "index.html": "/git%20remote%20add%20origin%20https://github.com/Liubomyr22/movie-database-api.git/index.html",
+    "static/css/main.76d72caf.chunk.css.map": "/git%20remote%20add%20origin%20https://github.com/Liubomyr22/movie-database-api.git/static/css/main.76d72caf.chunk.css.map",
+    "static/js/2.2d049cf1.chunk.js.LICENSE.txt": "/git%20remote%20add%20origin%20https://github.com/Liubomyr22/movie-database-api.git/static/js/2.2d049cf1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec39f6c6.js",
+    "static/js/2.2d049cf1.chunk.js",
+    "static/css/main.76d72caf.chunk.css",
+    "static/js/main.53a6376c.chunk.js"
+  ]
+}
